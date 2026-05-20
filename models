@@ -1,0 +1,46 @@
+
+
+ User 
+-username   Char
+-password   Char
+-contact    Char
+
+ Food 
+-name         Char
+-description  Char
+-price        Char
+-categgory    Char
+
+ Payment 
+-Customer ID    Int
+-Payment Date   Date
+-Payment Amount FLOAT
+
+Order 
+-Order number   INT
+-Customer ID    INT
+-Food Name      Char
+-Status         Char
+- Price         Float
+
+Table
+-TableNo    INT
+-Capacity   Int
+-Status     Int
+
+Inventory
+-Item Name    Char
+-Quantity     Int
+-Unit         Int
+
+ Bill
+ -table Number    INT
+ -order           Int
+ -Price           Int
+
+ FeedBack
+ -Customer Id     Int
+ -Comments        Char
+ -Feedback Date   Date
+
+
