@@ -30,11 +30,11 @@ Table
 
 Inventory
 -Item Name    Char
--Quantity     Int
--Unit         Int
+-Quantity     INT
+-Unit         INT
 
  Bill
- -table Number    INT
+ -table Number    Int
  -order           Int
  -Price           Int
 
